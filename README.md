@@ -39,7 +39,6 @@ I optimized the model using different activation functions( LeakyReLU and tanh) 
 <img width="578" alt="image" src="https://github.com/bhartikaushal/deeplearning_challenge/assets/124011061/6d919285-b8ab-4133-ac58-f04ff26fa442">
 <img width="476" alt="image" src="https://github.com/bhartikaushal/deeplearning_challenge/assets/124011061/48003694-cadd-42e3-9af5-dbb7dac60a59">
 
-# Summary
-My model can achieve 73 % accuracy. I could not hit the target of 75%. Even optimizing the model using different activation functions did not improve the efficiency of the model. I tried using 'Keras tuner,' but there was some error in its installation to the VS code. So I could not use it to optimize my model.
+
 
 
